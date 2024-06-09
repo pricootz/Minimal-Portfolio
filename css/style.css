@@ -355,41 +355,41 @@ article .icon {
 
 /* PROJECTS */
 
-#projects{
+#projects {
     position: relative;
 }
 
-.color-container{
+.color-container {
     border-color: rgb(163, 163, 163);
     background: rgb(250, 250, 250);
 }
 
-.project-img{
+.project-img {
     border-radius: 2rem;
     width: 90%;
     height: 90%;
 }
 
-.project-title{
+.project-title {
     margin: 1rem;
     color: black;
 }
 
-.project-btn{
+.project-btn {
     color: black;
     border-color: rgb(163, 163, 163);
 }
 
 /* CONTACT */
 
-#contact{
+#contact {
     display: flex;
     justify-content: center;
     flex-direction: column;
     height: 70vh;
 }
 
-.contact-info-upper-container{
+.contact-info-upper-container {
     display: flex;
     justify-content: center;
     border-radius: 2rem;
@@ -400,7 +400,7 @@ article .icon {
     pad: 0.5rem;
 }
 
-.contact-info-container{
+.contact-info-container {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -408,21 +408,21 @@ article .icon {
     margin: 1rem;
 }
 
-.contact-info-container p{
+.contact-info-container p {
     font-size: larger;
 }
 
-.contact-icon{
+.contact-icon {
     cursor: default;
 }
 
 /* FOOTER SECTION */
 
-footer{
+footer {
     height: 26vh;
     margin: 0 1rem;
 }
 
-footer p{
+footer p {
     text-align: center;
 }
